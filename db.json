@@ -12,7 +12,7 @@
      "title":"Mango People T-shirt",
      "sex":"female",
      "price":"52.00",
-     "img":"img/Layer_3.jpg",
+     "img":"/img/Layer_3.jpg",
      "type":"t-shirt"
   },
   {
@@ -20,7 +20,7 @@
      "title":"Mango People Jacket",
      "sex":"male",
      "price":"52.00",
-     "img":"../assetimg/Layer_4.jpg",
+     "img":"/img/Layer_4.jpg",
      "type":"jacket"
   },
   {
@@ -28,7 +28,7 @@
      "title":"Mango People Dress",
      "sex":"female",
      "price":"52.00",
-     "img":"../assets/img/Layer_5.jpg",
+     "img":"img/Layer_5.jpg",
      "type":"dress"
   },
   {
@@ -36,7 +36,7 @@
      "title":"Mango People Dress",
      "sex":"female",
      "price":"52.00",
-     "img":"../assets/img/Layer_6.jpg",
+     "img":"img/Layer_6.jpg",
      "type":"dress"
   },
   {
@@ -44,7 +44,7 @@
      "title":"Mango People Jacket",
      "sex":"male",
      "price":"52.00",
-     "img":"../assets/img/Layer_7.jpg",
+     "img":"img/Layer_7.jpg",
      "type":"jacket"
   },
   {
@@ -52,7 +52,7 @@
      "title":"Mango People Pants",
      "sex":"unisex",
      "price":"52.00",
-     "img":"../assets/img/Layer_8.jpg",
+     "img":"img/Layer_8.jpg",
      "type":"pants"
   },
   {
