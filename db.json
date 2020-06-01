@@ -12,7 +12,7 @@
      "title":"Mango People T-shirt",
      "sex":"female",
      "price":"52.00",
-     "img":"../assets/img/Layer_3.jpg",
+     "img":"img/Layer_3.jpg",
      "type":"t-shirt"
   },
   {
@@ -20,7 +20,7 @@
      "title":"Mango People Jacket",
      "sex":"male",
      "price":"52.00",
-     "img":"../assets/img/Layer_4.jpg",
+     "img":"../assetimg/Layer_4.jpg",
      "type":"jacket"
   },
   {
