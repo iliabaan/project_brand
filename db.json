@@ -1,10 +1,10 @@
 [
   {
      "id":1,
-     "title":"Mango Uau T-shirt",
+     "title":"Mango People T-shirt",
      "sex":"male",
      "price":"52.00",
-     "img":"/img/Layer_2.jpg",
+     "img":"https://i.ibb.co/s99fDjP/Layer-2.jpg",
      "type":"t-shirt"
   },
   {
@@ -12,7 +12,7 @@
      "title":"Mango People T-shirt",
      "sex":"female",
      "price":"52.00",
-     "img":"/img/Layer_3.jpg",
+     "img":"https://i.ibb.co/C1zTVyV/Layer-3.jpg",
      "type":"t-shirt"
   },
   {
@@ -20,7 +20,7 @@
      "title":"Mango People Jacket",
      "sex":"male",
      "price":"52.00",
-     "img":"/img/Layer_4.jpg",
+     "img":"https://i.ibb.co/cY2J2Mk/Layer-4.jpg",
      "type":"jacket"
   },
   {
@@ -28,7 +28,7 @@
      "title":"Mango People Dress",
      "sex":"female",
      "price":"52.00",
-     "img":"img/Layer_5.jpg",
+     "img":"https://i.ibb.co/dtNrSXs/Layer-5.jpg",
      "type":"dress"
   },
   {
@@ -36,7 +36,7 @@
      "title":"Mango People Dress",
      "sex":"female",
      "price":"52.00",
-     "img":"img/Layer_6.jpg",
+     "img":"https://i.ibb.co/pRCvr5h/Layer-6.jpg",
      "type":"dress"
   },
   {
@@ -44,7 +44,7 @@
      "title":"Mango People Jacket",
      "sex":"male",
      "price":"52.00",
-     "img":"img/Layer_7.jpg",
+     "img":"https://i.ibb.co/YftBHhF/Layer-7.jpg",
      "type":"jacket"
   },
   {
@@ -52,7 +52,7 @@
      "title":"Mango People Pants",
      "sex":"unisex",
      "price":"52.00",
-     "img":"img/Layer_8.jpg",
+     "img":"https://i.ibb.co/BNL0kC3/Layer-8.jpg",
      "type":"pants"
   },
   {
@@ -60,7 +60,7 @@
      "title":"Mango People T-shirt",
      "sex":"male",
      "price":"52.00",
-     "img":"img/Layer_9.jpg",
+     "img":"https://i.ibb.co/Bt7yGBc/Layer-9.jpg",
      "type":"t-shirt"
   }
 ]
