@@ -7,7 +7,7 @@
     "img": "https://i.ibb.co/s99fDjP/Layer-2.jpg",
     "type": "t-shirt",
     "featured": "true",
-    "sort_class": "male"
+    "sort_class": "man"
   },
   {
     "id": 2,
@@ -17,17 +17,17 @@
     "img": "https://i.ibb.co/C1zTVyV/Layer-3.jpg",
     "type": "t-shirt",
     "featured": "true",
-    "sort_class": "female"
+    "sort_class": "women"
   },
   {
     "id": 3,
     "title": "Mango People Jacket",
-    "gender": "male",
+    "gender": "man",
     "price": "52.00",
     "img": "https://i.ibb.co/cY2J2Mk/Layer-4.jpg",
     "type": "jacket",
     "featured": "true",
-    "sort_class": "male"
+    "sort_class": "man"
   },
   {
     "id": 4,
@@ -37,7 +37,7 @@
     "img": "https://i.ibb.co/dtNrSXs/Layer-5.jpg",
     "type": "dress",
     "featured": "true",
-    "sort_class": "female"
+    "sort_class": "women"
   },
   {
     "id": 5,
@@ -47,7 +47,7 @@
     "img": "https://i.ibb.co/pRCvr5h/Layer-6.jpg",
     "type": "dress",
     "featured": "true",
-    "sort_class": "female"
+    "sort_class": "women"
   },
   {
     "id": 6,
@@ -57,7 +57,7 @@
     "img": "https://i.ibb.co/YftBHhF/Layer-7.jpg",
     "type": "jacket",
     "featured": "true",
-    "sort_class": "male"
+    "sort_class": "man"
   },
   {
     "id": 7,
@@ -77,7 +77,7 @@
     "img": "https://i.ibb.co/Bt7yGBc/Layer-9.jpg",
     "type": "hoodie",
     "featured": "true",
-    "sort_class": "male"
+    "sort_class": "man"
   },
   {
     "id": 9,
@@ -87,7 +87,7 @@
     "img": "https://i.ibb.co/Pgn4MGz/Layer-43.jpg",
     "type": "hoodie",
     "featured": "false",
-    "sort_class": "male"
+    "sort_class": "man"
   },
   {
     "id": 10,
@@ -97,7 +97,7 @@
     "img": "https://i.ibb.co/5sc4DjR/Layer-45.png",
     "type": "t-shirt",
     "featured": "false",
-    "sort_class": "male"
+    "sort_class": "man"
   },
   {
     "id": 11,
@@ -107,7 +107,7 @@
     "img": "https://i.ibb.co/5cBvmTB/Layer-46.jpg",
     "type": "hoodie",
     "featured": "false",
-    "sort_class": "male"
+    "sort_class": "man"
   },
   {
     "id": 12,
@@ -117,7 +117,7 @@
     "img": "https://i.ibb.co/jzfn5pM/Layer-47.png",
     "type": "jacket",
     "featured": "false",
-    "sort_class": "male"
+    "sort_class": "man"
   },
   {
     "id": 13,
@@ -127,7 +127,7 @@
     "img": "https://i.ibb.co/mtRZ6Jq/Layer-48.jpg",
     "type": "jacket",
     "featured": "false",
-    "sort_class": "male"
+    "sort_class": "man"
   },
   {
     "id": 14,
@@ -137,7 +137,7 @@
     "img": "https://i.ibb.co/2dW2KHc/Layer-49.jpg",
     "type": "jacket",
     "featured": "false",
-    "sort_class": "male"
+    "sort_class": "man"
   },
   {
     "id": 15,
@@ -147,7 +147,7 @@
     "img": "https://i.ibb.co/5Mx8sNk/Layer-50.png",
     "type": "t-shirt",
     "featured": "false",
-    "sort_class": "male"
+    "sort_class": "man"
   },
   {
     "id": 16,
@@ -157,7 +157,7 @@
     "img": "https://i.ibb.co/QXppnqK/layer-42-2490.png",
     "type": "pants",
     "featured": "false",
-    "sort_class": "female"
+    "sort_class": "women"
   },
   {
     "id": 17,
