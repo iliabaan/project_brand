@@ -5,7 +5,7 @@
     "gender": "male",
     "price": "22.00",
     "img": "https://i.ibb.co/s99fDjP/Layer-2.jpg",
-    "type": "t-shirt",
+    "type": "t-shirts",
     "featured": "true",
     "sort_class": "man"
   },
@@ -15,7 +15,7 @@
     "gender": "female",
     "price": "15.00",
     "img": "https://i.ibb.co/C1zTVyV/Layer-3.jpg",
-    "type": "t-shirt",
+    "type": "t-shirts",
     "featured": "true",
     "sort_class": "women"
   },
@@ -25,7 +25,7 @@
     "gender": "man",
     "price": "52.00",
     "img": "https://i.ibb.co/cY2J2Mk/Layer-4.jpg",
-    "type": "jacket",
+    "type": "jackets",
     "featured": "true",
     "sort_class": "man"
   },
@@ -35,7 +35,7 @@
     "gender": "female",
     "price": "32.00",
     "img": "https://i.ibb.co/dtNrSXs/Layer-5.jpg",
-    "type": "dress",
+    "type": "dresses",
     "featured": "true",
     "sort_class": "women"
   },
@@ -45,7 +45,7 @@
     "gender": "female",
     "price": "35.00",
     "img": "https://i.ibb.co/pRCvr5h/Layer-6.jpg",
-    "type": "dress",
+    "type": "dresses",
     "featured": "true",
     "sort_class": "women"
   },
@@ -55,7 +55,7 @@
     "gender": "male",
     "price": "78.00",
     "img": "https://i.ibb.co/YftBHhF/Layer-7.jpg",
-    "type": "jacket",
+    "type": "jacketes",
     "featured": "true",
     "sort_class": "man"
   },
@@ -75,7 +75,7 @@
     "gender": "male",
     "price": "38.00",
     "img": "https://i.ibb.co/Bt7yGBc/Layer-9.jpg",
-    "type": "hoodie",
+    "type": "hoodies",
     "featured": "true",
     "sort_class": "man"
   },
@@ -85,7 +85,7 @@
     "gender": "male",
     "price": "41.00",
     "img": "https://i.ibb.co/Pgn4MGz/Layer-43.jpg",
-    "type": "hoodie",
+    "type": "hoodies",
     "featured": "false",
     "sort_class": "man"
   },
@@ -95,7 +95,7 @@
     "gender": "male",
     "price": "20.00",
     "img": "https://i.ibb.co/5sc4DjR/Layer-45.png",
-    "type": "t-shirt",
+    "type": "t-shirts",
     "featured": "false",
     "sort_class": "man"
   },
@@ -105,7 +105,7 @@
     "gender": "male",
     "price": "57.00",
     "img": "https://i.ibb.co/5cBvmTB/Layer-46.jpg",
-    "type": "hoodie",
+    "type": "hoodies",
     "featured": "false",
     "sort_class": "man"
   },
@@ -115,7 +115,7 @@
     "gender": "male",
     "price": "68.00",
     "img": "https://i.ibb.co/jzfn5pM/Layer-47.png",
-    "type": "jacket",
+    "type": "jackets",
     "featured": "false",
     "sort_class": "man"
   },
@@ -125,7 +125,7 @@
     "gender": "male",
     "price": "75.00",
     "img": "https://i.ibb.co/mtRZ6Jq/Layer-48.jpg",
-    "type": "jacket",
+    "type": "jackets",
     "featured": "false",
     "sort_class": "man"
   },
@@ -135,7 +135,7 @@
     "gender": "male",
     "price": "73.00",
     "img": "https://i.ibb.co/2dW2KHc/Layer-49.jpg",
-    "type": "jacket",
+    "type": "jackets",
     "featured": "false",
     "sort_class": "man"
   },
@@ -145,7 +145,7 @@
     "gender": "male",
     "price": "42.00",
     "img": "https://i.ibb.co/5Mx8sNk/Layer-50.png",
-    "type": "t-shirt",
+    "type": "t-shirts",
     "featured": "false",
     "sort_class": "man"
   },
@@ -165,7 +165,7 @@
     "gender": "male",
     "price": "20.00",
     "img": "https://i.ibb.co/cDn1Jvb/Layer-51.jpg",
-    "type": "t-shirt",
+    "type": "t-shirts",
     "featured": "false",
     "sort_class": "kids"
   },
@@ -175,7 +175,7 @@
     "gender": "male",
     "price": "30.00",
     "img": "https://i.ibb.co/hCXc5sy/Layer-52.jpg",
-    "type": "shirt",
+    "type": "shirts",
     "featured": "false",
     "sort_class": "kids"
   },
@@ -185,7 +185,7 @@
     "gender": "unisex",
     "price": "10.00",
     "img": "https://i.ibb.co/DQNKmSz/Layer-53.jpg",
-    "type": "pants",
+    "type": "accoseriese",
     "featured": "false",
     "sort_class": "accoseriese"
   },
@@ -195,7 +195,7 @@
     "gender": "unisex",
     "price": "15.00",
     "img": "https://i.ibb.co/yNVXzH8/Layer-54.jpg",
-    "type": "wallet",
+    "type": "accoseriese",
     "featured": "false",
     "sort_class": "accoseriese"
   }
