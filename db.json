@@ -8,7 +8,8 @@
     "img": "https://i.ibb.co/s99fDjP/Layer-2.jpg",
     "type": "t-shirts",
     "featured": "true",
-    "sort_class": "man"
+    "sort_class": "man",
+    "sizes": ["XS", "S", "M", "L"]
   },
   {
     "id": 2,
@@ -19,7 +20,8 @@
     "img": "https://i.ibb.co/C1zTVyV/Layer-3.jpg",
     "type": "t-shirts",
     "featured": "true",
-    "sort_class": "women"
+    "sort_class": "women",
+    "sizes": ["XS", "S", "M", "L"]
   },
   {
     "id": 3,
@@ -30,7 +32,8 @@
     "img": "https://i.ibb.co/cY2J2Mk/Layer-4.jpg",
     "type": "jackets",
     "featured": "true",
-    "sort_class": "man"
+    "sort_class": "man",
+    "sizes": ["S", "M", "L"]
   },
   {
     "id": 4,
@@ -41,7 +44,8 @@
     "img": "https://i.ibb.co/dtNrSXs/Layer-5.jpg",
     "type": "dresses",
     "featured": "true",
-    "sort_class": "women"
+    "sort_class": "women",
+    "sizes": ["XXS", "S", "M", "L"]
   },
   {
     "id": 5,
@@ -52,7 +56,8 @@
     "img": "https://i.ibb.co/pRCvr5h/Layer-6.jpg",
     "type": "dresses",
     "featured": "true",
-    "sort_class": "women"
+    "sort_class": "women",
+    "sizes": ["S", "M", "L", "XXL"]
   },
   {
     "id": 6,
@@ -63,7 +68,8 @@
     "img": "https://i.ibb.co/YftBHhF/Layer-7.jpg",
     "type": "jacketes",
     "featured": "true",
-    "sort_class": "man"
+    "sort_class": "man",
+    "sizes": ["XS", "S", "M", "L", "XL"]
   },
   {
     "id": 7,
@@ -74,7 +80,8 @@
     "img": "https://i.ibb.co/BNL0kC3/Layer-8.jpg",
     "type": "pants",
     "featured": "true",
-    "sort_class": "male"
+    "sort_class": "male",
+    "sizes": ["S", "M", "L"]
   },
   {
     "id": 8,
@@ -85,7 +92,8 @@
     "img": "https://i.ibb.co/Bt7yGBc/Layer-9.jpg",
     "type": "hoodies",
     "featured": "true",
-    "sort_class": "man"
+    "sort_class": "man",
+    "sizes": ["S", "M", "L", "XXL", "XL"]
   },
   {
     "id": 9,
@@ -96,7 +104,8 @@
     "img": "https://i.ibb.co/Pgn4MGz/Layer-43.jpg",
     "type": "hoodies",
     "featured": "false",
-    "sort_class": "man"
+    "sort_class": "man",
+    "sizes": ["S", "M", "L"]
   },
   {
     "id": 10,
@@ -107,7 +116,8 @@
     "img": "https://i.ibb.co/5sc4DjR/Layer-45.png",
     "type": "t-shirts",
     "featured": "false",
-    "sort_class": "man"
+    "sort_class": "man",
+    "sizes": ["S", "M", "L"]
   },
   {
     "id": 11,
@@ -118,7 +128,8 @@
     "img": "https://i.ibb.co/5cBvmTB/Layer-46.jpg",
     "type": "hoodies",
     "featured": "false",
-    "sort_class": "man"
+    "sort_class": "man",
+    "sizes": ["S", "M", "L"]
   },
   {
     "id": 12,
@@ -129,7 +140,8 @@
     "img": "https://i.ibb.co/jzfn5pM/Layer-47.png",
     "type": "jackets",
     "featured": "false",
-    "sort_class": "man"
+    "sort_class": "man",
+    "sizes": ["S", "M", "L"]
   },
   {
     "id": 13,
@@ -140,7 +152,8 @@
     "img": "https://i.ibb.co/mtRZ6Jq/Layer-48.jpg",
     "type": "jackets",
     "featured": "false",
-    "sort_class": "man"
+    "sort_class": "man",
+    "sizes": ["S", "M", "L"]
   },
   {
     "id": 14,
@@ -151,7 +164,8 @@
     "img": "https://i.ibb.co/2dW2KHc/Layer-49.jpg",
     "type": "jackets",
     "featured": "false",
-    "sort_class": "man"
+    "sort_class": "man",
+    "sizes": ["S", "M", "L", "XL"]
   },
   {
     "id": 15,
@@ -162,7 +176,8 @@
     "img": "https://i.ibb.co/5Mx8sNk/Layer-50.png",
     "type": "t-shirts",
     "featured": "false",
-    "sort_class": "man"
+    "sort_class": "man",
+    "sizes": ["S", "M", "L", "XL"]
   },
   {
     "id": 16,
@@ -173,7 +188,8 @@
     "img": "https://i.ibb.co/QXppnqK/layer-42-2490.png",
     "type": "pants",
     "featured": "false",
-    "sort_class": "women"
+    "sort_class": "women",
+    "sizes": ["XS", "S", "M", "L"]
   },
   {
     "id": 17,
@@ -184,7 +200,8 @@
     "img": "https://i.ibb.co/cDn1Jvb/Layer-51.jpg",
     "type": "t-shirts",
     "featured": "false",
-    "sort_class": "kids"
+    "sort_class": "kids",
+    "sizes": ["S", "M", "L"]
   },
   {
     "id": 18,
@@ -195,7 +212,8 @@
     "img": "https://i.ibb.co/hCXc5sy/Layer-52.jpg",
     "type": "shirts",
     "featured": "false",
-    "sort_class": "kids"
+    "sort_class": "kids",
+    "sizes": ["XXS", "XS", "S", "M", "L"]
   },
   {
     "id": 19,
@@ -206,7 +224,8 @@
     "img": "https://i.ibb.co/DQNKmSz/Layer-53.jpg",
     "type": "accoseriese",
     "featured": "false",
-    "sort_class": "accoseriese"
+    "sort_class": "accoseriese",
+    "sizes": ["M"]
   },
   {
     "id": 20,
@@ -217,6 +236,7 @@
     "img": "https://i.ibb.co/yNVXzH8/Layer-54.jpg",
     "type": "accoseriese",
     "featured": "false",
-    "sort_class": "accoseriese"
+    "sort_class": "accoseriese",
+    "sizes": ["M"]
   }
 ]
