@@ -9,6 +9,7 @@
     "type": "t-shirts",
     "featured": "true",
     "sort_class": "man",
+    "colors": ["black", "white", "grey"],
     "material": "cotton",
     "sizes": ["XS", "S", "M", "L"]
   },
@@ -22,6 +23,7 @@
     "type": "t-shirts",
     "featured": "true",
     "sort_class": "women",
+    "colors": ["red", "white", "yellow"],
     "material": "cotton",
     "sizes": ["XS", "S", "M", "L"]
   },
@@ -35,6 +37,7 @@
     "type": "jackets",
     "featured": "true",
     "sort_class": "man",
+    "colors": ["black", "blue", "grey"],
     "material": "leather",
     "sizes": ["S", "M", "L"]
   },
@@ -48,6 +51,7 @@
     "type": "dresses",
     "featured": "true",
     "sort_class": "women",
+    "colors": ["pink", "white"],
     "material": "cotton",
     "sizes": ["XXS", "S", "M", "L"]
   },
@@ -61,6 +65,7 @@
     "type": "dresses",
     "featured": "true",
     "sort_class": "women",
+    "colors": ["black", "white", "grey"],
     "material": "cotton",
     "sizes": ["S", "M", "L", "XXL"]
   },
@@ -74,6 +79,7 @@
     "type": "jacketes",
     "featured": "true",
     "sort_class": "man",
+    "colors": ["black", "white", "grey"],
     "material": "leather",
     "sizes": ["XS", "S", "M", "L", "XL"]
   },
@@ -87,6 +93,7 @@
     "type": "pants",
     "featured": "true",
     "sort_class": "male",
+    "colors": ["black", "white", "yellow"],
     "material": "synthetic",
     "sizes": ["S", "M", "L"]
   },
@@ -100,6 +107,7 @@
     "type": "hoodies",
     "featured": "true",
     "sort_class": "man",
+    "colors": ["black", "white", "blue"],
     "material": "cotton",
     "sizes": ["S", "M", "L", "XXL", "XL"]
   },
@@ -113,6 +121,7 @@
     "type": "hoodies",
     "featured": "false",
     "sort_class": "man",
+    "colors": ["black", "white", "grey"],
     "material": "synthetic",
     "sizes": ["S", "M", "L"]
   },
@@ -126,6 +135,7 @@
     "type": "t-shirts",
     "featured": "false",
     "sort_class": "man",
+    "colors": ["black", "white", "grey"],
     "material": "cotton",
     "sizes": ["S", "M", "L"]
   },
@@ -139,6 +149,7 @@
     "type": "hoodies",
     "featured": "false",
     "sort_class": "man",
+    "colors": ["black", "white", "grey"],
     "material": "synthetic",
     "sizes": ["S", "M", "L"]
   },
@@ -152,6 +163,7 @@
     "type": "jackets",
     "featured": "false",
     "sort_class": "man",
+    "colors": ["black", "blue", "grey"],
     "material": "leather",
     "sizes": ["S", "M", "L"]
   },
@@ -165,6 +177,7 @@
     "type": "jackets",
     "featured": "false",
     "sort_class": "man",
+    "colors": ["black", "white", "grey"],
     "material": "wool",
     "sizes": ["S", "M", "L"]
   },
@@ -178,6 +191,7 @@
     "type": "jackets",
     "featured": "false",
     "sort_class": "man",
+    "colors": ["black", "white", "grey"],
     "material": "leather",
     "sizes": ["S", "M", "L", "XL"]
   },
@@ -191,6 +205,7 @@
     "type": "t-shirts",
     "featured": "false",
     "sort_class": "man",
+    "colors": ["blue", "white", "grey"],
     "material": "synthetic",
     "sizes": ["S", "M", "L", "XL"]
   },
@@ -204,6 +219,7 @@
     "type": "pants",
     "featured": "false",
     "sort_class": "women",
+    "colors": ["black", "white", "grey"],
     "material": "synthetic",
     "sizes": ["XS", "S", "M", "L"]
   },
@@ -217,6 +233,7 @@
     "type": "t-shirts",
     "featured": "false",
     "sort_class": "kids",
+    "colors": ["black", "white", "grey"],
     "material": "cotton",
     "sizes": ["S", "M", "L"]
   },
@@ -230,6 +247,7 @@
     "type": "shirts",
     "featured": "false",
     "sort_class": "kids",
+    "colors": ["black", "white", "yellow"],
     "material": "cotton",
     "sizes": ["XXS", "XS", "S", "M", "L"]
   },
@@ -242,6 +260,7 @@
     "img": "https://i.ibb.co/DQNKmSz/Layer-53.jpg",
     "type": "accoseriese",
     "featured": "false",
+    "colors": ["black", "white", "grey"],
     "material": "leather",
     "sort_class": "accoseriese",
     "sizes": ["M"]
@@ -255,6 +274,7 @@
     "img": "https://i.ibb.co/yNVXzH8/Layer-54.jpg",
     "type": "accoseriese",
     "featured": "false",
+    "colors": ["black", "white", "grey"],
     "material": "leather",
     "sort_class": "accoseriese",
     "sizes": ["M"]
