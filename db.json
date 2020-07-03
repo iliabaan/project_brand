@@ -12,6 +12,7 @@
     "colors": ["black", "white", "grey"],
     "material": "cotton",
     "rate": "5",
+    "quantity": "1",
     "sizes": ["XS", "S", "M", "L"]
   },
   {
@@ -27,6 +28,7 @@
     "colors": ["red", "white", "yellow"],
     "material": "cotton",
     "rate": "4.3",
+    "quantity": "1",
     "sizes": ["XS", "S", "M", "L"]
   },
   {
@@ -42,6 +44,7 @@
     "colors": ["black", "blue", "grey"],
     "material": "leather",
     "rate": "4",
+    "quantity": "1",
     "sizes": ["S", "M", "L"]
   },
   {
@@ -57,6 +60,7 @@
     "colors": ["pink", "white"],
     "material": "cotton",
     "rate": "3.8",
+    "quantity": "1",
     "sizes": ["XXS", "S", "M", "L"]
   },
   {
@@ -72,6 +76,7 @@
     "colors": ["black", "white", "grey"],
     "material": "cotton",
     "rate": "4.1",
+    "quantity": "1",
     "sizes": ["S", "M", "L", "XXL"]
   },
   {
@@ -87,6 +92,7 @@
     "colors": ["black", "white", "grey"],
     "material": "leather",
     "rate": "3.7",
+    "quantity": "1",
     "sizes": ["XS", "S", "M", "L", "XL"]
   },
   {
@@ -102,6 +108,7 @@
     "colors": ["black", "white", "yellow"],
     "material": "synthetic",
     "rate": "3.7",
+    "quantity": "1",
     "sizes": ["S", "M", "L"]
   },
   {
@@ -117,6 +124,7 @@
     "colors": ["black", "white", "blue"],
     "material": "cotton",
     "rate": "3.2",
+    "quantity": "1",
     "sizes": ["S", "M", "L", "XXL", "XL"]
   },
   {
@@ -132,6 +140,7 @@
     "colors": ["black", "white", "grey"],
     "material": "synthetic",
     "rate": "5.0",
+    "quantity": "1",
     "sizes": ["S", "M", "L"]
   },
   {
@@ -147,6 +156,7 @@
     "colors": ["black", "white", "grey"],
     "material": "cotton",
     "rate": "2.9",
+    "quantity": "1",
     "sizes": ["S", "M", "L"]
   },
   {
@@ -162,6 +172,7 @@
     "colors": ["black", "white", "grey"],
     "material": "synthetic",
     "rate": "3.4",
+    "quantity": "1",
     "sizes": ["S", "M", "L"]
   },
   {
@@ -177,6 +188,7 @@
     "colors": ["black", "blue", "grey"],
     "material": "leather",
     "rate": "3.8",
+    "quantity": "1",
     "sizes": ["S", "M", "L"]
   },
   {
@@ -192,6 +204,7 @@
     "colors": ["black", "white", "grey"],
     "material": "wool",
     "rate": "4.8",
+    "quantity": "1",
     "sizes": ["S", "M", "L"]
   },
   {
@@ -207,6 +220,7 @@
     "colors": ["black", "white", "grey"],
     "material": "leather",
     "rate": "4.6",
+    "quantity": "1",
     "sizes": ["S", "M", "L", "XL"]
   },
   {
@@ -222,6 +236,7 @@
     "colors": ["blue", "white", "grey"],
     "material": "synthetic",
     "rate": "3.4",
+    "quantity": "1",
     "sizes": ["S", "M", "L", "XL"]
   },
   {
@@ -237,6 +252,7 @@
     "colors": ["black", "white", "grey"],
     "material": "synthetic",
     "rate": "3.8",
+    "quantity": "1",
     "sizes": ["XS", "S", "M", "L"]
   },
   {
@@ -252,6 +268,7 @@
     "colors": ["black", "white", "grey"],
     "material": "cotton",
     "rate": "4.8",
+    "quantity": "1",
     "sizes": ["S", "M", "L"]
   },
   {
@@ -267,6 +284,7 @@
     "colors": ["black", "white", "yellow"],
     "material": "cotton",
     "rate": "4.3",
+    "quantity": "1",
     "sizes": ["XXS", "XS", "S", "M", "L"]
   },
   {
@@ -282,6 +300,7 @@
     "material": "leather",
     "sort_class": "accoseriese",
     "rate": "4.1",
+    "quantity": "1",
     "sizes": ["M"]
   },
   {
@@ -297,6 +316,7 @@
     "material": "leather",
     "sort_class": "accoseriese",
     "rate": "4.9",
+    "quantity": "1",
     "sizes": ["M"]
   }
 ]
